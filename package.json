@@ -1,0 +1,44 @@
+{
+  "name": "twitter-webhook-boilerplate-node",
+  "version": "1.0.0",
+  "description": "Sample web app and helper scripts to get started with Twitter's Account Activity API",
+  "engines": {
+    "node": "8.11.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "command-line-args": "^5.0.2",
+    "csurf": "^1.9.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "http-auth": "^3.2.3",
+    "memory-cache": "^0.2.0",
+    "nconf": "^0.10.0",
+    "passport": "^0.4.0",
+    "passport-twitter": "^1.0.4",
+    "prompt-promise": "^1.0.3",
+    "query-string": "^6.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "socket.io": "^2.2.0",
+    "uuid": "^3.3.2",
+    "twit": "^2.2.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twitterdev/account-activity-dashboard"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "webhook",
+    "twitter"
+  ],
+  "license": "MIT"
+}
