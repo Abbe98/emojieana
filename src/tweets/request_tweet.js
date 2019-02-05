@@ -6,6 +6,8 @@ class RequestTweet {
   }
 
   shouldReply() {
+    console.log('isMentioned: ' + this.isMentioned());
+    console.log('isRetweet: ' + this.isRetweet());
     return this.isMentioned() && !this.isRetweet();
   }
 
@@ -22,7 +24,7 @@ class RequestTweet {
   }
 
   isMentioned(screen_name) {
-    screen_name = screen_name || process.env.TWITTER_SCREEN_NAME;
+    screen_name = screen_name || process.env.BOT_USERNAME;
     let mentions = this.payload.entities.user_mentions;
 
     return !!mentions.find((mention) => {

@@ -27,6 +27,7 @@
     "request-promise": "^4.2.2",
     "socket.io": "^2.2.0",
     "uuid": "^3.3.2",
+    "thenby": "^1.2.1",
     "twit": "^2.2.11"
   },
   "repository": {
