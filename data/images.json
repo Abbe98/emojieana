@@ -55,6 +55,9 @@
     "©️": [
       "https://digitaltmuseum.se/011024765084/ritning"
     ],
+    "💣": [
+      "https://digitaltmuseum.se/011024419608/23-cm-bomb"
+    ],
     "®️": [],
     "‼️": [],
     "⁉️": [],
@@ -1471,7 +1474,8 @@
         "https://digitaltmuseum.se/011014314562/enligt-notering-tyngdlyftare-23-5-57",
         "https://digitaltmuseum.se/021016186014/kraftsport-sm-14-december-1976",
         "https://digitaltmuseum.se/021016402579/armstrackare",
-        "https://digitaltmuseum.se/021016402558/armfallbojning"
+        "https://digitaltmuseum.se/021016402558/armfallbojning",
+        "https://digitaltmuseum.se/021017370016/atleten-och-tyngdlyftaren-starke-arvid-till-vanster-och-eliasson-upptrader"
     ],
     "🏋️‍♂️": [
         "https://digitaltmuseum.se/011014314562/enligt-notering-tyngdlyftare-23-5-57",
@@ -1590,7 +1594,9 @@
     "🏮": [
         "http://collections.smvk.se/carlotta-vkm/web/object/33331"
     ],
-    "🏯": [],
+    "🏯": [
+        "http://collections.smvk.se/carlotta-om/web/object/108868"
+    ],
     "🏰": [
         "https://digitaltmuseum.se/021015775638/stockholm-omkring-1580-manga-och-detaljerade-upplysningar-om-de-aldsta"
     ],
@@ -1895,7 +1901,9 @@
         "https://digitaltmuseum.se/011025174454/skolplansch",
         "https://digitaltmuseum.se/011023804302/kakaoburk"
     ],
-    "👁‍🗨": [],
+    "👁‍🗨": [
+        "https://digitaltmuseum.se/011025136002/amulett-oga"
+    ],
     "👂": [
         "https://digitaltmuseum.se/011025135959/ora",
         "http://collections.smvk.se/carlotta-em/web/object/1503263"
@@ -2296,22 +2304,37 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=137811&viewType=detailView"
     ],
     "💠": [],
-    "💡": [],
-    "💢": [],
-    "💣": [],
-    "💤": [],
+    "💡": [
+        "https://digitaltmuseum.se/021017784872/hantverksutstallningen-1947-i-kalmar-monter-for-kf-luma-glodlampan",
+        "https://digitaltmuseum.se/021016764797/konsum-alfa-varuhuset-skyltfonstertema-luma-ogats-mjuka-tjanare",
+        "https://digitaltmuseum.se/021016319060/skioptikonbild-fran-institutionen-for-fotografi-vid-kungliga-tekniska-hogskolan",
+        "https://digitaltmuseum.se/021015829635/luma-lampkartong"
+    ],
+    "💢": [
+        "https://digitaltmuseum.se/011024652575/frimarke"
+    ],
+    "💤": [
+        "https://digitaltmuseum.se/011023682847/oljemalning"
+    ],
     "💥": [
         "https://digitaltmuseum.se/011013849545/eldslagning-bullermor-stina-persdotter-slar-gnistor-med-ett-ovalformigt"
     ],
-    "💦": [],
-    "💧": [],
-    "💨": [],
+    "💦": [
+        "https://digitaltmuseum.se/021017932951/tva-pojkar-star-pa-en-bro-och-tittar-ner-pa-ett-vattenfall"
+    ],
+    "💧": [
+        "https://digitaltmuseum.se/021026701778/vas"
+    ],
+    "💨": [
+        "https://digitaltmuseum.se/011013990569/teckning-av-ett-trad-och-moln-som-blaser-vind"
+    ],
     "💩": [
         "https://digitaltmuseum.se/021027148727/koprolit"
     ],
     "💪": [
         "https://digitaltmuseum.se/011014314562/enligt-notering-tyngdlyftare-23-5-57",
-        "https://digitaltmuseum.se/021016186014/kraftsport-sm-14-december-1976"
+        "https://digitaltmuseum.se/021016186014/kraftsport-sm-14-december-1976",
+        "https://digitaltmuseum.se/021017370016/atleten-och-tyngdlyftaren-starke-arvid-till-vanster-och-eliasson-upptrader"
     ],
     "💫": [],
     "💬": [],
@@ -2319,13 +2342,19 @@
     "💮": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18868&viewType=detailView"
     ],
-    "💯": [],
+    "💯": [
+        "https://digitaltmuseum.se/011023077854/bokklade"
+    ],
     "💰": [
         "https://digitaltmuseum.se/011023373890/sedel",
         "https://digitaltmuseum.se/021026707986/mynt"
     ],
-    "💱": [],
-    "💲": [],
+    "💱": [
+        "https://digitaltmuseum.se/021017806952/koreakriget-en-militarlakare-pa-det-svenska-faltsjukhuset-i-pusan-haller"
+    ],
+    "💲": [
+        "https://digitaltmuseum.se/011023781432/mynt"
+    ],
     "💳": [
         "https://digitaltmuseum.se/021026361960/kontokort"
     ],
@@ -2333,7 +2362,8 @@
         "https://digitaltmuseum.se/021026707986/mynt"
     ],
     "💵": [
-        "https://digitaltmuseum.se/021026707798/mynt"
+        "https://digitaltmuseum.se/021026707798/mynt",
+        "https://digitaltmuseum.se/011023781432/mynt"
     ],
     "💶": [
         "https://digitaltmuseum.se/021027146898/mynt"
@@ -2342,9 +2372,12 @@
         "https://digitaltmuseum.se/021027146401/mynt"
     ],
     "💸": [
-        "https://digitaltmuseum.se/011023373890/sedel"
+        "https://digitaltmuseum.se/011023373890/sedel",
+        "https://digitaltmuseum.se/021017806952/koreakriget-en-militarlakare-pa-det-svenska-faltsjukhuset-i-pusan-haller"
     ],
-    "💹": [],
+    "💹": [
+        "https://digitaltmuseum.se/021026707986/mynt"
+    ],
     "💺": [
         "http://sparvagsmuseet.sl.se/databas/leyland-tiger-118816/"
     ],
@@ -2381,14 +2414,19 @@
     "📆": [
         "https://digitaltmuseum.se/011024614363/kalender-fick"
     ],
-    "📇": [],
+    "📇": [
+        "https://digitaltmuseum.se/011014690742/stockholm-sverige"
+    ],
     "📈": [
         "https://digitaltmuseum.se/021016463976/man-pa-borsen-granskar-noteringar-och-beraknar-kundernas-vinster-eller"
     ],
     "📉": [
         "https://digitaltmuseum.se/021016463976/man-pa-borsen-granskar-noteringar-och-beraknar-kundernas-vinster-eller"
     ],
-    "📊": [],
+    "📊": [
+        "https://digitaltmuseum.se/011025174535/skolplansch",
+        "https://digitaltmuseum.se/011025174543/skolplansch"
+    ],
     "📋": [],
     "📌": [
         "https://digitaltmuseum.se/011023027812/knappnal"
@@ -2437,14 +2475,28 @@
     "📛": [],
     "📜": [],
     "📝": [],
-    "📞": [],
-    "📟": [],
-    "📠": [],
+    "📞": [
+        "https://digitaltmuseum.se/021026307470/telefonapparat"
+    ],
+    "📟": [
+        "https://digitaltmuseum.se/021026312703/personsokare"
+    ],
+    "📠": [
+        "https://digitaltmuseum.se/021026309185/telefax"
+    ],
     "📡": [],
-    "📢": [],
-    "📣": [],
-    "📤": [],
-    "📥": [],
+    "📢": [
+        "https://digitaltmuseum.se/011014569646/nidingens-fyrplats"
+    ],
+    "📣": [
+        "https://digitaltmuseum.se/021016968425/klargoring-av-flygplan-fvm-tummeliten-markt-nummer-3656-vid-flygdagarna"
+    ],
+    "📤": [
+        "https://digitaltmuseum.se/021025590787/brevfack"
+    ],
+    "📥": [
+        "https://digitaltmuseum.se/021025590787/brevfack"
+    ],
     "📦": [],
     "📧": [],
     "📨": [],
@@ -2464,7 +2516,9 @@
     "📮": [
         "https://digitaltmuseum.se/011024604422/brevlada"
     ],
-    "📯": [],
+    "📯": [
+        "https://digitaltmuseum.se/011014653746/postiljonsuniform-1840-talet-uniformen-forvaras-i-postmuseum"
+    ],
     "📰": [
         "https://digitaltmuseum.se/021046508177/politiserande-bonder"
     ],
@@ -2478,13 +2532,29 @@
     "📴": [],
     "📵": [],
     "📶": [],
-    "📷": [],
-    "📸": [],
-    "📹": [],
-    "📺": [],
-    "📻": [],
-    "📼": [],
-    "📽": [],
+    "📷": [
+        "https://digitaltmuseum.se/011013852731/sjalvportratt-fotografen-tar-en-bild-av-sig-sjalv-och-sina-tre-barn-med",
+        "https://digitaltmuseum.se/011023770859/ladkamera"
+    ],
+    "📸": [
+        "https://digitaltmuseum.se/011013852731/sjalvportratt-fotografen-tar-en-bild-av-sig-sjalv-och-sina-tre-barn-med"
+    ],
+    "📹": [
+        "https://digitaltmuseum.se/021026312329/videokamera"
+    ],
+    "📺": [
+        "https://digitaltmuseum.se/021026361376/tv-mottagare"
+    ],
+    "📻": [
+        "https://digitaltmuseum.se/021026312495/radiomottagare"
+    ],
+    "📼": [
+        "https://digitaltmuseum.se/021026471820/videofilm"
+    ],
+    "📽": [
+        "https://digitaltmuseum.se/021026348721/filmprojektor-och-laterna-magica",
+        "https://digitaltmuseum.se/021027340043/filmprojektor"
+    ],
     "📿": [
         "http://collections.smvk.se/carlotta-vkm/web/object/36111"
     ],
@@ -2500,9 +2570,15 @@
     "🔉": [],
     "🔊": [],
     "🔋": [],
-    "🔌": [],
-    "🔍": [],
-    "🔎": [],
+    "🔌": [
+        "https://digitaltmuseum.se/021026359866/kabel-till-dammsugare"
+    ],
+    "🔍": [
+        "https://digitaltmuseum.se/011023736678/forstoringsglas"
+    ],
+    "🔎": [
+        "https://digitaltmuseum.se/011023666435/forstoringsglas"
+    ],
     "🔏": [],
     "🔐": [
         "http://collections.smvk.se/carlotta-em/web/object/1555363"
@@ -2519,7 +2595,10 @@
     "🔔": [],
     "🔕": [],
     "🔖": [],
-    "🔗": [],
+    "🔗": [
+        "https://digitaltmuseum.se/021026356951/kedja",
+        "https://digitaltmuseum.se/021026752563/kedja"
+    ],
     "🔘": [],
     "🔙": [],
     "🔚": [],
@@ -2542,18 +2621,30 @@
     "🔥": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=21673&viewType=detailView"
     ],
-    "🔦": [],
-    "🔧": [],
-    "🔨": [],
-    "🔩": [],
-    "🔪": [],
+    "🔦": [
+        "https://digitaltmuseum.se/011014317702/enligt-notering-skogsbrand-bulid-18-9-59"
+    ],
+    "🔧": [
+        "https://digitaltmuseum.se/021018000394/skiftnycklar-enkopings-kvarnstensfabrik-bangardsgatan-13-enkoping-uppland"
+    ],
+    "🔨": [
+        "https://digitaltmuseum.se/021017291285/platslagare-g-e-eklund-1957"
+    ],
+    "🔩": [
+        "https://digitaltmuseum.se/021026334577/styrspindel"
+    ],
+    "🔪": [
+        "https://digitaltmuseum.se/021016275042/interior-av-koket-en-kvinna-och-en-hund-doktorinnan-maria-norstrom-fodd"
+    ],
     "🔫": [
         "https://digitaltmuseum.se/021015829566/regementsmastare-pistol-a-6-armetekniker-seger"
     ],
     "🔬": [
         "https://stockholmskallan.stockholm.se/post/22342"
     ],
-    "🔭": [],
+    "🔭": [
+        "https://digitaltmuseum.se/021026345852/teleskop"
+    ],
     "🔮": [
         "https://digitaltmuseum.se/011013838604/spakvinna-lagger-stjarna-for-kund-pa-bordet-framfor-henne-finns-en-kristallkula"
     ],
@@ -2575,9 +2666,13 @@
     "🔼": [],
     "🔽": [],
     "🕉": [],
-    "🕊": [],
+    "🕊": [
+        "https://digitaltmuseum.se/021027124642/flagga"
+    ],
     "🕋": [],
-    "🕌": [],
+    "🕌": [
+        "https://digitaltmuseum.se/021016247031/el-djema-mosken-alger-22-mars-1886-akvarell-av-fritz-von-dardel"
+    ],
     "🕍": [
         "https://stockholmskallan.stockholm.se/post/21118"
     ],
@@ -3243,7 +3338,9 @@
     "🤦‍♀️": [
         "https://digitaltmuseum.se/021046508473/danae-och-guldregnet"
     ],
-    "🤧": [],
+    "🤧": [
+      "https://digitaltmuseum.se/011024454055/portratt"
+    ],
     "🤱": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=18474&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=19200&viewType=detailView",
@@ -3287,7 +3384,9 @@
         "https://digitaltmuseum.se/021015921527/skandinaviska-pipfabrikens-damhandbollslag",
         "https://digitaltmuseum.se/021015921528/bomullsspinneriet-kampenhofs-damhandbollslag-1946"
     ],
-    "🥀": [],
+    "🥀": [
+        "https://digitaltmuseum.se/011013994396/torkad-och-pressad-ros-uppsala-1944"
+    ],
     "🥁": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=164075&viewType=detailView",
         "http://collections.smvk.se/carlotta-em/web/object/2683391",
@@ -3315,7 +3414,9 @@
     "🥑": [
         "https://digitaltmuseum.se/021026381963/frimarke"
     ],
-    "🥒": [],
+    "🥒": [
+        "https://digitaltmuseum.se/021017096482/procordia-food-ab-olandsfabriken-b-hallen-jenny-fohrman-sorterar-bort-ruttna"
+    ],
     "🥓": [
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=23927&viewType=detailView",
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=17802&viewType=detailView"
@@ -3407,7 +3508,9 @@
         "http://collection.nationalmuseum.se/eMuseumPlus?service=ExternalInterface&module=collection&objectId=47721&viewType=detailView",
         "http://collections.smvk.se/carlotta-vkm/web/object/1960776"
     ],
-    "🦕": [],
+    "🦕": [
+        "https://digitaltmuseum.se/021026480541/frimarke"
+    ],
     "🦖": [
         "https://digitaltmuseum.se/021017185015/k-nex-utstallningen-tyrannosaurus-rex-50-487-bitar-och-baby-t-rex-8-542"
     ],
@@ -3427,7 +3530,6 @@
         "https://digitaltmuseum.se/021046508259/erik-xiv-1533-1577",
         "http://collections.smvk.se/carlotta-em/web/object/3676657"
     ],
-    "🧙": [],
     "🧙‍♀️": [
         "https://digitaltmuseum.se/021016811205/paskkarringar-ar-1964"
     ],
