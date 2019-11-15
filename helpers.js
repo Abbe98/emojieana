@@ -24,7 +24,7 @@ module.exports = {
         console.log('error:', err);
         if (cb){
           cb(err);
-        }        
+        }
         return false;
       }
       data = data.split('\n');
@@ -44,7 +44,7 @@ module.exports = {
               image_url = img_data.url;
 
           if (image_url && deleted_images.indexOf(img_data.uuid) === -1 && that.extension_check(image_url)){
-            var file_name = that.get_filename_from_url(image_url).split('%2F')[1];            
+            var file_name = that.get_filename_from_url(image_url).split('%2F')[1];
             img_urls.push(image_url);
           }
         }
@@ -52,7 +52,7 @@ module.exports = {
       if (cb){
         cb(null, img_urls);
       }
-    });      
+    });
   },
   load_remote_image: function(img_url, cb) {
     if (!img_url){
@@ -73,7 +73,7 @@ module.exports = {
           }
         }
     });
-  },  
+  },
   extension_check: function(url) {
     var extName = path.extname(url).toLowerCase();
     return extName === ".png" || extName === ".jpg" || extName === ".jpeg";

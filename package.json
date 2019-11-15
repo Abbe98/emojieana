@@ -1,7 +1,7 @@
 {
-  "name": "twitter-webhook-boilerplate-node",
+  "name": "emojieana",
   "version": "1.0.0",
-  "description": "Sample web app and helper scripts to get started with Twitter's Account Activity API",
+  "description": "Give it a mention and an Emoji and get an matching image from Europeana in return!",
   "engines": {
     "node": "8.11.2"
   },
@@ -29,10 +29,6 @@
     "uuid": "^3.3.2",
     "thenby": "^1.2.1",
     "twit": "^2.2.11"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/twitterdev/account-activity-dashboard"
   },
   "keywords": [
     "node",
